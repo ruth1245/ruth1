@@ -32,7 +32,7 @@ I'm a software developer with a focus on creating dynamic, responsive, and user-
 ## 🔗 Links
 
 - **Portfolio**: [Your Portfolio URL](https://your-portfolio.com) *(Add your portfolio link here)*
-- **LinkedIn**: [Ruth Fikermariam](https://www.linkedin.com/in/ruth-fikermariam) *(Add your LinkedIn URL)*
+- **LinkedIn**: [Ruth Fikermariam](https://www.linkedin.com/in/ruth-fikremariam-160398295/)
 - **Twitter**: [@ruthfikermariam](https://twitter.com/your-handle) *(Optional)*
 - **Personal Website**: [your-website.com](https://your-website.com) *(Optional)*
 
