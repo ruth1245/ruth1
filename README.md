@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full-stack and mobile apps**
 
-- 🌱 I’m currently learning **write**
+- 🌱 I’m currently learning **looking for jobs in programming**
 
 - 👯 I’m looking to collaborate on **collaborate on open-source full-stack web applications and mobile apps**
 
